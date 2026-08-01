@@ -65,7 +65,7 @@ A web application that summarizes any YouTube video by extracting its transcript
 
 # 📸 Demo
 
-![Summary Tab](screenshots/summary-tab.png)
+screenshots/summary-tab.png
 
 ---
 
