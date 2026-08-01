@@ -1,2 +1,2 @@
 # yt-video-summarizer-chatbot
-YouTube video summarizer with AI chatbot Q&amp;A and auto-generated quiz, built with Flask, BART, and Flan-T5
+YouTube video summarizer that extracts video transcripts and generates concise summaries using BART. Includes an interactive chatbot to ask questions about video content and an auto-generated multiple-choice quiz feature, both powered by Flan-T5. Built with Flask backend and vanilla JS frontend, runs fully on Google Colab via ngrok — no local setup or paid API required.
